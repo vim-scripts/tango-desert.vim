@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer: Vineeth N <nvineeth a-t yahoo d-o-t com>
-" Last Change: $Date: 2009/05/28  $
-" Version: 1.0
+" Last Change: $Date: 2009/06/12 $
+" Version: 1.1
 " Description: Dark Tango colorscheme based on "desert.vim" & tango color
 " palette
 
@@ -31,10 +31,10 @@ hi ModeMsg      guifg=#8ae234
 hi MatchParen   guibg=#ad7fa8 guifg=#eeeeec
 hi MoreMsg      guifg=#8ae234
 hi NonText      guifg=#babdb6 guibg=#555753
-hi PmenuSel     guibg=#888a85 guifg=#eeeeec
-hi Pmenu        guibg=#babdb6 guifg=#555753
-hi PmenuSbar    guibg=#babdb6 guifg=#888a85
-hi PmenuThumb   guibg=#babdb6 guifg=#888a85
+hi PmenuSel     guibg=#5c3566 guifg=#eeeeec
+hi Pmenu        guibg=#75507b guifg=#eeeeec
+hi PmenuSbar    guibg=#75507b guifg=#5c3566
+hi PmenuThumb   guifg=#5c3566 guibg=#75507b
 hi Question     guifg=#8ae234
 hi Search       guibg=#edd400
 hi SpecialKey   guifg=#888a85
